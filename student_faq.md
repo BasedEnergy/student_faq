@@ -101,10 +101,12 @@ for x in range(20, 30):
 ---
 ## Unit 11: Web
 #### What's the relevance of using web technologies like HTML and CSS?
-- 
+- Learning these web technologies teaches us an entirely new way to present our data: in a beautiful web application! Having an impressive GUI with which to present your findings can truly take your work to the next level, and looks great for employers!
 ---
 ## Unit 12: Web Scraping and Document Databases
 #### Why are we using Mongo now? I thought SQL was the best??
+- While SQL is an extremely powerful language for defining and manipulatin data, it can actually be restrictive. SQL requires you to use predefined schemas to determine your data structure, and requires that all of your data follow the same structure.
+- A NoSQL database has a dynamic schema for unstructured data and can store data in a variety of ways. This gives it much more flexibility in practice. 
 ---
 ## Unit 13: ETL Project
 #### Why are we doing this project?
