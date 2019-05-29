@@ -62,8 +62,7 @@ for x in range(20, 30):
 #### I'm having trouble picking up on this new syntax...
 - Luckily, there is a library for that! Whenever we work with a library, we are using code that is already pre-written. We always need to reference the documentation when using a new library. Without looking at the instructions, you will never know how to use this piece of technology. 
 - We recognize this may be your first time looking at a library that is less semantic, but this will be a constant for the future. You will see a lot of new technology throughout the course, and each time you will need to dive into the documentation. The docs will be different for each new technology.
-#### Why do we have.plt() sometimes and other times not? 
-- We have a couple of different plotting methods available to use in Matplotlib.
+#### What is the difference between plot() and subplot()
 - 
 ---
 ## Unit 06: Python APIs
@@ -78,18 +77,31 @@ for x in range(20, 30):
 ---
 ## Unit 07: Project 1
 #### I'm not feeling confident with Git... What are some resources that could help?
+- 
 #### Why are we doing this project?
+- Each project that we tackle in this class serves multiple purposes, and they will all be highly critical in your development as a data analyst. First, group projects allow you to start developing a collaborative workflow that is very similar to the workflow you would encounter at many jobs in the field. Good teamwork is an essential real-world skill. Working in a group also allows you to accomplish more and create more impressive projects than you would be able to alone! Take advantage of it!
+- This project will be your first opportunity to build a data presentation from the ground up. This is something you will do many times as a data scientist, so the more you practice and reinforce these skills, the better off you will be in the field!
+- Finally, this project is going to be featured in your resume and portfolio. Having strong examples of your work in your professional materials increases the chances to wow a potential employer and ultimately get hired!
 ---
 ## Unit 09: SQL
 #### What's the relevance of PostgreSQL?
+- PostgreSQL, or Postgres, is a really cool free, open-source object-relational database management system. Databases are going to be crucial in our work as data scientists! 
+- Remember how we discussed the relationship between client and server earlier? We can think of our database as the third part of that relationship. Essentially, the client sends a request to the server, the server grabs the associated data from the database, and then the retrieved data is returned to the client by the server. 
+#### But what does SQL mean?
+- SQL stands for structured query language. Put simply, SQL is the language that we use to interact with our database. SQL is the most widely used database laguage, is incredibly effective at manipulating data, and is one of the easier languages to learn! Learning SQL is also great for employability - There are thousands of jobs that look for candidates with SQL experience!
 ---
 ## Unit 10: Advanced Data Storage and Retrieval
 #### What is SQLite and why use it?
+- SQLite is a dialect for using an SQL database. The syntax is very similary to the PostgreSQL syntax, with the main difference between the two being that SQLite is entirely serverless. SQlite is not comparable with PostgreSQL or any other SQL language, rather it focuses on providing local data storage for individual applications.
 #### What does ORM mean?
+- ORM stands for Object-Relational-Mapper. Obect-relational-mapping allows us to write SQL queries using the object-oriented paradigm of the language you prefer to work with. In other words, it allows us to interact with our database using our language of choice (which in our case will be Python)
 #### How are classes relevant?
+- As you already know, Python is an "object-oriented programming (OOP) language", which means that it is highly concerned with organization and resuability. Classes are crucial to OOP in that they allow us to group related things and keep them together.
+- A class is essentially a template that wllows us to create objects, which have variables and beheaviours associated with them.
 ---
 ## Unit 11: Web
 #### What's the relevance of using web technologies like HTML and CSS?
+- 
 ---
 ## Unit 12: Web Scraping and Document Databases
 #### Why are we using Mongo now? I thought SQL was the best??
