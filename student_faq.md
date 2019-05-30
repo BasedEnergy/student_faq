@@ -105,7 +105,7 @@ for x in range(20, 30):
 ---
 ## Unit 12: Web Scraping and Document Databases
 #### Why are we using Mongo now? I thought SQL was the best??
-- While SQL is an extremely powerful language for defining and manipulatin data, it can actually be restrictive. SQL requires you to use predefined schemas to determine your data structure, and requires that all of your data follow the same structure.
+- While SQL is an extremely powerful language for defining and manipulating data, it can actually be restrictive. SQL requires you to use predefined schemas to determine your data structure, and requires that all of your data follow the same structure.
 - A NoSQL database has a dynamic schema for unstructured data and can store data in a variety of ways. This gives it much more flexibility in practice. 
 ---
 ## Unit 13: ETL Project
