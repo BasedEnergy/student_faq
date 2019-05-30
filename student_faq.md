@@ -129,15 +129,30 @@ for x in range(20, 30):
 ---
 ## Unit 17: GeoJSON and Leaflet
 #### Why is it useful to map out data geographically?
+Your datasets should be visualized and explained in different ways depending on the background context of the data and what your stakeholders are most interested in learning. Oftentimes, the geography in the data is highly relevant. For example, a marketing stakeholder would be interested to know the popularity of their product in specific states to understand how to best move forward with their campaigns.
+
 ---
 ## Unit 18: R
 #### What is the relevance of R?
+R is a programming language used for statistical computing, commonly used in data analysis and by data miners. It’s also used for its strength in graphics.
+
+While you don’t need to walk away with a mastery of this language, it’s helpful to gain exposure to multiple languages and technologies throughout this course to gain some familiarity with their core concepts. 
+
 ---
 ## Unit 20: Tableau
-#### How many ways do I need to know how to make a chart?
-#### How is this any different than Excel?
+#### How is this different than Excel or the other ways I’ve learned to make a chart?
+While Excel and VBA allow you to be very flexible in how you manipulate your data, Tableau allows you to more easily discover visualizations to which you want to apply your data, even ones that aren’t readily available in Excel, like world maps. 
+
+Tableau also allows for high flexibility in changing data sources for creating charts, changing your mind on what kind of chart you want to use, and allows you to add data and change scenarios on the fly without much overhead. The drag-and-drop abilities of Tableau make it incredibly simple to integrate more data (and it can handle **a lot** of data, node so than Excel). 
+
+Different tools for different uses makes it easier for you to adapt and adjust, giving your stakeholders what they want. 
+
 #### Why are we using the public version and not student?
+Typically, you’ll find that a lot of platforms that offer student discounts or trials do not extend this to students of continuing education programs or students without university email addresses. Please ask your SSM about your university policies on this.
+
 #### What is the difference between public and pro?
+Tableau Public is a free version of the software that provides all the same tools as Pro. However, because it’s free, it requires all data that is input to be freely accessible to everyone, and has a limit of 1 million rows. This version should not be used if you’re dealing with any sensitive or privileged datasets. This version also does not allow saving to your machine and you must save to their server. 
+
 ---
 ## Unit 21: Machine Learning
 #### What is the relevance of machine learning?
