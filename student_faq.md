@@ -89,10 +89,12 @@ Any time we work with an API, it's a good idea to have the documentation ready a
 ---
 ## Unit 07: Project 1
 #### I'm not feeling confident with Git... What are some resources that could help?
-Conveniently, GitHub has their own set of guides to help break down how to use the program!
+Conveniently, GitHub has their own set of guides to help break down how to use the program:
 [GitHub Guides](https://guides.github.com/)
+
 Additionally, if you find videos helpful in your learning process, this is roughly an hour of video designed to cover the fundamentals of Git and Github:
 [No Nonsense Github Videos](https://github.com/Multishifties/No-Nonsense-Github-Project)
+
 Finally, we have a handy visual Git reference guide located here:
 [Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
