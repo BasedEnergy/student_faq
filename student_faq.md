@@ -6,26 +6,26 @@ If you think of other potential questions to add, please let us know! We are alw
 
 ## Table of Contents
 
-[Unit 01 - Excel](#unit-01:-excel) <br>
-[Unit 02 - VBA Scripting](#unit-02:-vba-scripting) <br>
-[Unit 03 - Python](#unit-03:-python) <br>
-[Unit 04 - Pandas](#unit-02:-pandas) <br>
-[Unit 05 - Matplotlib](#unit-02:-matplotlib) <br>
-[Unit 06 - Python APIs](#unit-02:-python-APIs) <br>
-[Unit 07 - Project 1](#unit-07:-project-1) <br>
-[Unit 09 - SQL](#unit-09:-sql) <br>
-[Unit 10 - Advanced Data Storage and Retrieval](#Unit-10:-advanced-data-storage-and-retrieval) <br>
-[Unit 11 - Web](#unit-11:-web) <br>
-[Unit 12 - Web Scraping and Document Databases](#Unit-12:-web-scraping-and-document-databases) <br>
-[Unit 13 - ETL Project](#unit-13:-etl-project) <br>
-[Unit 14 - Intro to Javascript](#unit-14:-intro-to-javascript) <br>
-[Unit 15 - Interactive Visualizations and Dashboards](#unit-15:-interactive-visualizations-and-dashboards) <br>
-[Unit 16 - D3](#unit-02:-d3) <br> 
-[Unit 17 - GeoJSON and Leaflet](#unit-17:-geojson-and-leaflet) <br>
-[Unit 18 - R](#unit-18:-r) <br>
-[Unit 20 - Tableau](#unit-20:-tableau) <br>
-[Unit 21 - Machine Learning](#unit-02:-machine-learning) <br>
-[Unit 22 - Big Data](#unit-22:-big-data) 
+[Unit 01 - Excel](#unit-01-excel) <br>
+[Unit 02 - VBA Scripting](#unit-02-vba-scripting) <br>
+[Unit 03 - Python](#unit-03-python) <br>
+[Unit 04 - Pandas](#unit-02-pandas) <br>
+[Unit 05 - Matplotlib](#unit-02-matplotlib) <br>
+[Unit 06 - Python APIs](#unit-02-python-APIs) <br>
+[Unit 07 - Project 1](#unit-07-project-1) <br>
+[Unit 09 - SQL](#unit-09-sql) <br>
+[Unit 10 - Advanced Data Storage and Retrieval](#Unit-10-advanced-data-storage-and-retrieval) <br>
+[Unit 11 - Web](#unit-11-web) <br>
+[Unit 12 - Web Scraping and Document Databases](#Unit-12-web-scraping-and-document-databases) <br>
+[Unit 13 - ETL Project](#unit-13-etl-project) <br>
+[Unit 14 - Intro to Javascript](#unit-14-intro-to-javascript) <br>
+[Unit 15 - Interactive Visualizations and Dashboards](#unit-15-interactive-visualizations-and-dashboards) <br>
+[Unit 16 - D3](#unit-16-d3) <br> 
+[Unit 17 - GeoJSON and Leaflet](#unit-17-geojson-and-leaflet) <br>
+[Unit 18 - R](#unit-18-r) <br>
+[Unit 20 - Tableau](#unit-20-tableau) <br>
+[Unit 21 - Machine Learning](#unit-02-machine-learning) <br>
+[Unit 22 - Big Data](#unit-22-big-data) 
 
 ## Unit 01: Excel
 #### What's the relevance of Excel?
