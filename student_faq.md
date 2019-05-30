@@ -110,6 +110,7 @@ for x in range(20, 30):
 ---
 ## Unit 13: ETL Project
 #### Why are we doing this project?
+- ETL, or Extract, Transform, Load, is a critical aspect of working with data. With ETL, we are essentially pulling in data from various sources, cleaning and restructuring it, and then writing it into a database for storage. This workflow is something you will see time and time again as a data scientist. 
 ---
 ## Unit 14: Intro to Javascript
 #### Oh no! More new syntax that I don't understand!?
