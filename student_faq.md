@@ -74,9 +74,6 @@ Luckily, there is documentation for that! Whenever we work with a library, we ar
 
 We recognize this may be your first time looking at a library that is less semantic, or readable, but this will be a constant for the future. You will see a lot of new technology throughout the course, and each time you will need to dive into the documentation. The docs will be different for each new technology.
 
-#### What is the difference between plot() and subplot()
-- 
-
 ---
 ## Unit 06: Python APIs
 #### How do I differentiate between the client and the server? 
@@ -92,7 +89,12 @@ Any time we work with an API, it's a good idea to have the documentation ready a
 ---
 ## Unit 07: Project 1
 #### I'm not feeling confident with Git... What are some resources that could help?
-- 
+Conveniently, GitHub has their own set of guides to help break down how to use the program!
+[GitHub Guides](https://guides.github.com/)
+Additionally, if you find videos helpful in your learning process, this is roughly an hour of video designed to cover the fundamentals of Git and Github:
+[No Nonsense Github Videos](https://github.com/Multishifties/No-Nonsense-Github-Project)
+Finally, we have a handy visual Git reference guide located here:
+[Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 #### Why are we doing this project?
 Each project that we tackle in this class serves multiple purposes, and they will all be highly critical in your development as a data analyst. First, group projects allow you to start developing a collaborative workflow that is very similar to the workflow you would encounter at many jobs in the field. Good teamwork is an essential real-world skill. Working in a group also allows you to accomplish more and create more impressive projects than you would be able to alone! Take advantage of it!
@@ -180,7 +182,7 @@ While you don’t need to walk away with a mastery of this language, it’s help
 #### How is this different than Excel or the other ways I’ve learned to make a chart?
 While Excel and VBA allow you to be very flexible in how you manipulate your data, Tableau allows you to more easily discover visualizations to which you want to apply your data, even ones that aren’t readily available in Excel, like world maps. 
 
-Tableau also allows for high flexibility in changing data sources for creating charts, changing your mind on what kind of chart you want to use, and allows you to add data and change scenarios on the fly without much overhead. The drag-and-drop abilities of Tableau make it incredibly simple to integrate more data (and it can handle **a lot** of data, node so than Excel). 
+Tableau also allows for high flexibility in changing data sources for creating charts, changing your mind on what kind of chart you want to use, and allows you to add data and change scenarios on the fly without much overhead. The drag-and-drop abilities of Tableau make it incredibly simple to integrate more data (and it can handle **a lot** of data, more so than Excel). 
 
 Different tools for different uses makes it easier for you to adapt and adjust, giving your stakeholders what they want. 
 
