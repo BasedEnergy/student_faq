@@ -117,14 +117,15 @@ for x in range(20, 30):
 - Don't be afraid! Learning a new syntax can certainly feel like learning a whole new language. We don't expect you to be Javascript masters! All of this information is iterative, and your skills will only improve with time and practice. If it becomes overwhelming, we have resources such as office hours and tutoring the get you over the hill, so please don't be afraid to reach out to one of us! We are here for your success. 
 #### Why do we need to learn Javascript? I thought this was a Python course...
 - Learning how to build functional web applications with HTML, CSS, and Javascript is going to open up a world of possibilities for presenting our data! It also gives you another real world skill to add on to your resume that employers love!
-
 ---
 ## Unit 15: Interactive Visualizations and Dashboards
 #### Why would I use Plotly instead of Matplotlib or another library?
-
+- While Plotly.js is not necessarily "better" than matplotlib or another plotting library, it is useful for a variety of reasons! Plotly is incredibly popular in the data science community.
+- Plotly.js uses both D3.js and WebGL to render graphics, works with JSON schema, and supports a large variety of map charts, including basic, statistical, financial, and scientific!
 ---
 ## Unit 16: D3
 #### This seems like a really difficult library, I'm worried that it will never make sense...
+- D3 is certainly an intimidating library, but it is also one of the most powerful Data Visualization available to us! Just like with any other skill, your knowledge of D3 will only strengthen with time and practice. Take advantage of the resources available to you, ask us and your fellow students for help if you need it, and don't be afraid to get your hands dirty and make mistakes! Encountering and solving errors is all part of the process, and will only make you a better programmer.
 ---
 ## Unit 17: GeoJSON and Leaflet
 #### Why is it useful to map out data geographically?
