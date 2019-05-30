@@ -143,7 +143,7 @@ While you don’t need to walk away with a mastery of this language, it’s help
 #### How is this different than Excel or the other ways I’ve learned to make a chart?
 While Excel and VBA allow you to be very flexible in how you manipulate your data, Tableau allows you to more easily discover visualizations to which you want to apply your data, even ones that aren’t readily available in Excel, like world maps. 
 
-Tableau also allows for high flexibility in changing data sources for creating charts, changing your mind on what kind of chart you want to use, and allows you to add data and change scenarios on the fly without much overhead. The drag-and-drop abilities of Tableau make it incredibly simple to integrate more data (and it can handle **a lot** of data, node so than Excel). 
+Tableau also allows for high flexibility in changing data sources for creating charts, changing your mind on what kind of chart you want to use, and allows you to add data and change scenarios on the fly without much overhead. The drag-and-drop abilities of Tableau make it incredibly simple to integrate more data (and it can handle **a lot** of data, more so than Excel). 
 
 Different tools for different uses makes it easier for you to adapt and adjust, giving your stakeholders what they want. 
 
@@ -156,6 +156,21 @@ Tableau Public is a free version of the software that provides all the same tool
 ---
 ## Unit 21: Machine Learning
 #### What is the relevance of machine learning?
+Machine Learning is one kind of data analysis that automates model building leading us into the creation of systems that can identify patterns, make decisions, and learn without much human intervention. It's an exciting realization of the growth of artificial intelligence as a computer learns from previous computations and produces reliable and repeatable results from their decisions. 
+
+While Machine Learning has been around for a while, there's been a spike in its popularity in more recent years. You can hear about it used more by marketing professionals through Twitter, in the recommendation system that Netflix, Hulu, and Amazon use, and even within self-driving cars. The purpose of Machine Learning here is to analyze more data in less time, delivering accurate results every time. 
+
+This branch of data analytics is going to continue growing in various areas including the financial sector to identify investment opportunities, government work to detect fraud, and the further advancement of wearable healthcare devices. 
+
+#### How much Machine Learning knowledge will I walk away with? 
+Machine learning is a very deep well of knowledge. We could have an entire course dedicated to Machine Learning and still walk away wanting to know more. This course is meant to provide you with an introduction into Machine Learning and give you the tools and familiarity to continue this education on your own. Take advantage of in-class time, office hours, and your network of peers to continue learning more about Machine Learning. 
+
 ---
 ## Unit 22: Big Data
 #### What is the relevance of Big Data?
+Our methods of data collection have grown quite a bit in the past few years. We now have a massive amount of data available, but adequately parsing, processing, and analyzing this data is difficult to do using our traditional applications. 2.3 trillion gigabytes of new data is created each day in both structured and unstructured formats. Knowing how to process and analyze this data is a very in-demand skill.
+
+Using Big Data, businesses can gain understanding in where, when, and why their customers buy their product. They can provide targeted advertisement in a more efficient way. They can predict market trends and anticipate future production needs. They can have an edge on the competition or their own future improvement. They can identify new sources of revenue. Big Data can be a game changer to a company. 
+
+#### How much Big Data knowledge will I walk away with? 
+Similar to Machine Learning, Big Data is a very deep well of knowledge. We could have an entire course dedicated to understanding how to handle Big Data effectively and still walk away wanting to know more. This course is meant to provide you with an introduction into Big Data and give you the tools and familiarity to continue this education on your own. Take advantage of in-class time, office hours, and your network of peers to continue learning more about Big Data and its real world use cases. 
