@@ -110,11 +110,14 @@ for x in range(20, 30):
 ---
 ## Unit 13: ETL Project
 #### Why are we doing this project?
-- ETL, or Extract, Transform, Load, is a critical aspect of working with data. With ETL, we are essentially pulling in data from various sources, cleaning and restructuring it, and then writing it into a database for storage. This workflow is something you will see time and time again as a data scientist. 
+- ETL, or Extract, Transform, Load, is a critical aspect of working with data. With ETL, we are essentially pulling in data from various sources, cleaning and restructuring it, and then writing it into a database for storage. This workflow is something you will see time and time again as a data scientist.
 ---
 ## Unit 14: Intro to Javascript
 #### Oh no! More new syntax that I don't understand!?
-#### Why do we need to learn Javascript? I thought this was a Python course.
+- Don't be afraid! Learning a new syntax can certainly feel like learning a whole new language. We don't expect you to be Javascript masters! All of this information is iterative, and your skills will only improve with time and practice. If it becomes overwhelming, we have resources such as office hours and tutoring the get you over the hill, so please don't be afraid to reach out to one of us! We are here for your success. 
+#### Why do we need to learn Javascript? I thought this was a Python course...
+- Learning how to build functional web applications with HTML, CSS, and Javascript is going to open up a world of possibilities for presenting our data! It also gives you another real world skill to add on to your resume that employers love!
+
 ---
 ## Unit 15: Interactive Visualizations and Dashboards
 #### Why would I use Plotly instead of Matplotlib or another library?
