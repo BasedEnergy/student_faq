@@ -70,9 +70,9 @@ It's like using Excel vs using VBA with Excel.
 ---
 ## Unit 05: Matplotlib
 #### I'm having trouble picking up on this new syntax...
-Luckily, there is a library for that! Whenever we work with a library, we are using code that is already pre-written. We always need to reference the documentation when using a new library. Without looking at the instructions, you will never know how to use this piece of technology. 
+Luckily, there is documentation for that! Whenever we work with a library, we are using code that is already pre-written. We always need to reference the documentation when using a new library. Without looking at the instructions, you will never know how to use a new piece of technology.
 
-We recognize this may be your first time looking at a library that is less semantic, but this will be a constant for the future. You will see a lot of new technology throughout the course, and each time you will need to dive into the documentation. The docs will be different for each new technology.
+We recognize this may be your first time looking at a library that is less semantic, or readable, but this will be a constant for the future. You will see a lot of new technology throughout the course, and each time you will need to dive into the documentation. The docs will be different for each new technology.
 
 #### What is the difference between plot() and subplot()
 - 
@@ -109,7 +109,7 @@ PostgreSQL, or Postgres, is a really cool free, open-source object-relational da
 Remember how we discussed the relationship between client and server earlier? We can think of our database as the third part of that relationship. Essentially, the client sends a request to the server, the server grabs the associated data from the database, and then the retrieved data is returned to the client by the server. 
 
 #### But what does SQL mean?
-SQL stands for structured query language. Put simply, SQL is the language that we use to interact with our database. SQL is the most widely used database laguage, is incredibly effective at manipulating data, and is one of the easier languages to learn! Learning SQL is also great for employability - There are thousands of jobs that look for candidates with SQL experience!
+SQL stands for Structured Query Language. Put simply, SQL is the language that we use to interact with our database. SQL is the most widely used database laguage, is incredibly effective at manipulating data, and is one of the easier languages to learn! Learning SQL is also great for employability - There are thousands of jobs that look for candidates with SQL experience!
 
 ---
 ## Unit 10: Advanced Data Storage and Retrieval
@@ -122,7 +122,7 @@ ORM stands for Object-Relational-Mapper. Obect-relational-mapping allows us to w
 #### How are classes relevant?
 As you already know, Python is an "object-oriented programming (OOP) language", which means that it is highly concerned with organization and resuability. Classes are crucial to OOP in that they allow us to group related things and keep them together.
 
-A class is essentially a template that wllows us to create objects, which have variables and beheaviours associated with them.
+A class is essentially a template that allows us to create objects, which have variables and beheaviours associated with them.
 
 ---
 ## Unit 11: Web
@@ -144,9 +144,12 @@ ETL, or Extract, Transform, Load, is a critical aspect of working with data. Wit
 ---
 ## Unit 14: Intro to Javascript
 #### Oh no! More new syntax that I don't understand!?
-Don't be afraid! Learning a new syntax can certainly feel like learning a whole new language. We don't expect you to be Javascript masters! All of this information is iterative, and your skills will only improve with time and practice. If it becomes overwhelming, we have resources such as office hours and tutoring the get you over the hill, so please don't be afraid to reach out to one of us! We are here for your success. 
+Don't be afraid! Learning a new syntax can certainly feel like learning a whole new language. We don't expect you to be Javascript masters! All of this information is iterative, and your skills will only improve with time and practice. If it becomes overwhelming, we have resources such as office hours and tutoring the get you over the hill, so please don't be afraid to reach out to one of us! We are here for your success.
+
 #### Why do we need to learn Javascript? I thought this was a Python course...
-Learning how to build functional web applications with HTML, CSS, and Javascript is going to open up a world of possibilities for presenting our data! It also gives you another real world skill to add on to your resume that employers love!
+Learning how to build functional web applications with HTML, CSS, and Javascript is going to open up a world of possibilities for presenting our data! Many of the libraries that we will be using for impressive visualizations are Javascript libraries, making it an essential skill for some of our more interactive visualizations.
+
+Learning Javascript also gives you another real world skill to add on to your resume that employers and stakeholders love!
 
 ---
 ## Unit 15: Interactive Visualizations and Dashboards
